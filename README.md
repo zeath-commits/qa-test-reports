@@ -10,4 +10,5 @@ I test developer tools and small software workflows. These samples show the step
 
 ## Python and CSV
 
+- [Python import repair](./python-csv-row-validation.md) — a before-and-after example with rejected rows, exact totals, and eight unit tests.
 - [Five CLI smoke checks](https://www.youtube.com/watch?v=ACkshe4ua2E) — a short video using a Python CSV importer to demonstrate checks before shipping.
