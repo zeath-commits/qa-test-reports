@@ -1,0 +1,13 @@
+# Zearth | Software QA work samples
+
+I test developer tools and small software workflows. These samples show the steps I ran, what happened, and what I’d check next.
+
+## API and CLI testing
+
+- [TypeScript SDK first-send test](https://gist.github.com/zeath-commits/64def64b37d0f54535c035d8f169231c) — a runnable TypeScript example and notes from testing an SDK’s send flow.
+- [CLI first-send test](https://gist.github.com/zeath-commits/9629456165889fb4502e0ed3e8d032d3) — command-line setup, a test send, and field notes.
+- [MCP integration test in Codex](./silvertongue-mcp-codex.md) — setup, a bounded tool test, and the observed results.
+
+## Python and CSV
+
+- [Five CLI smoke checks](https://www.youtube.com/watch?v=ACkshe4ua2E) — a short video using a Python CSV importer to demonstrate checks before shipping.
