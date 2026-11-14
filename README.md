@@ -15,7 +15,7 @@ I test developer tools and small software workflows. These samples show the step
 
 ## Website QA
 
-- [Website flow check report](https://zearth-dev-checks.scarzgaminglol.chatgpt.site/flow-check-example) - a desktop check of my own storefront, with expected and observed results and coverage limits.
+- [Website flow check report](./website-flow-check.md) — a three-step desktop test of my own storefront, with expected and observed results.
 
 ## Work with me
 
