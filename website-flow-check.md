@@ -16,4 +16,4 @@ Can a visitor find the $25 website check, open the request section and copy the 
 
 The LaborX and Reddit links opened the intended profiles. The test ended before buyer sign-in or message submission.
 
-[Request a website flow check](https://zearth-dev-checks.scarzgaminglol.chatgpt.site/#request)
+[Request a website flow check](https://zearth-dev-checks.scarzgaminglol.chatgpt.site/#request) or [message me on Reddit](https://www.reddit.com/user/Suitable_Ad2839/) with the public URL, expected result, and deadline.

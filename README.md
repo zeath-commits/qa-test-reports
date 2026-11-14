@@ -21,4 +21,4 @@ I test developer tools and small software workflows. These samples show the step
 
 - [Test one API or TypeScript SDK flow](https://laborx.com/gigs/test-one-api-or-node-typescript-sdk-flow-and-report-the-results-124672)
 - [Fix one Python or CSV/JSON import bug](https://laborx.com/gigs/fix-one-python-script-or-csv-json-import-bug-124300)
-- [Request a $25 public website flow check](https://zearth-dev-checks.scarzgaminglol.chatgpt.site/#request)
+- [Request a $25 public website flow check](https://zearth-dev-checks.scarzgaminglol.chatgpt.site/#request) or [message me on Reddit](https://www.reddit.com/user/Suitable_Ad2839/). Send the public URL, what should happen, and your deadline.
